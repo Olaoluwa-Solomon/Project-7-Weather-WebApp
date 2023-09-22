@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #fff;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.4)50%, rgba(0, 0, 0, 0.4)50%),
-        url(/kace-rodriguez-p3OzJuT_Dks-unsplash.jpg);
+        url(kace-rodriguez-p3OzJuT_Dks-unsplash.jpg);
     background-size: cover;   
 }  
 
@@ -68,6 +68,8 @@ body {
         width: 100%;
         max-width: 300px;
         margin: 1em;
+        align-items: center;
+        justify-content: center;
         }
 
     .search-bar {
